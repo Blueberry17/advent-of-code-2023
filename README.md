@@ -9,7 +9,7 @@ To run the code for a specific day and part with this as the root directory, use
 python3 solutions/day01/p1.py
 ```
 
-## Lessons
+# Lessons
 What I learnt/noticed each day:
 1. Look out for ambiguous edge cases.
 2. Using enumerate is almost always a good idea.
